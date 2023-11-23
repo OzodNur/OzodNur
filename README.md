@@ -12,7 +12,7 @@
 <a href="https://t.me/Nurmamatov_Ozodbek" target="_blank">
   <img align="center" alt="Ozodbek | Telegram" src="https://img.shields.io/badge/telegram-4680C2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/ozodbek-nurmamatov-849758286/" target="_blank">
+<a href="https://www.linkedin.com/in/ozodbek-nurmamatov/" target="_blank">
   <img align="center" alt="ozodNur | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
